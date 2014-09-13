@@ -1,1 +1,1 @@
-Codext is a web application for taking programmming notes.
+Codext is a web application for taking programmming notes with annotations.
